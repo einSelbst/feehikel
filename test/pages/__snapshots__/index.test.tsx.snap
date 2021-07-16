@@ -3,16 +3,20 @@
 exports[`home page matches snapshot 1`] = `
 <DocumentFragment>
   <div
+    __source="[object Object]"
     class="jsx-1885047670 container"
   >
     <main
+      __source="[object Object]"
       class="jsx-1885047670"
     >
       <h1
+        __source="[object Object]"
         class="jsx-1885047670"
       >
         Welcome to 
         <a
+          __source="[object Object]"
           class="jsx-1885047670"
           href="https://nextjs.org"
         >
@@ -20,26 +24,31 @@ exports[`home page matches snapshot 1`] = `
         </a>
       </h1>
       <p
+        __source="[object Object]"
         class="jsx-1885047670 description"
       >
         An overly opinionated starter for 
         <code
+          __source="[object Object]"
           class="jsx-1885047670"
         >
           next.js
         </code>
       </p>
       <div
+        __source="[object Object]"
         class="jsx-1885047670 py-20"
       >
         <h2
+          __source="[object Object]"
           class="jsx-1885047670 text-3xl text-center text-gray-700 dark:text-gray-100"
         >
           A short story
         </h2>
         <iframe
+          __source="[object Object]"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen=""
+          allowfullscreen="true"
           class="jsx-1885047670"
           height="315"
           loading="lazy"
@@ -49,6 +58,7 @@ exports[`home page matches snapshot 1`] = `
         />
       </div>
       <button
+        __source="[object Object]"
         class="jsx-1885047670"
         data-cy="test-button"
         type="button"
@@ -56,64 +66,77 @@ exports[`home page matches snapshot 1`] = `
         Test Button
       </button>
       <div
+        __source="[object Object]"
         class="jsx-1885047670 grid"
       >
         <a
+          __source="[object Object]"
           class="jsx-1885047670 card"
           href="https://nextjs.org/docs"
         >
           <h3
+            __source="[object Object]"
             class="jsx-1885047670"
           >
             Documentation →
           </h3>
           <p
+            __source="[object Object]"
             class="jsx-1885047670"
           >
             Find in-depth information about Next.js features and API.
           </p>
         </a>
         <a
+          __source="[object Object]"
           class="jsx-1885047670 card"
           href="https://nextjs.org/docs/getting-started"
         >
           <h3
+            __source="[object Object]"
             class="jsx-1885047670"
           >
             Learn →
           </h3>
           <p
+            __source="[object Object]"
             class="jsx-1885047670"
           >
             Learn about Next.js in an interactive course with quizzes!
           </p>
         </a>
         <a
+          __source="[object Object]"
           class="jsx-1885047670 card"
           data-cy="fr-legal"
           href="/legal"
         >
           <h3
+            __source="[object Object]"
             class="jsx-1885047670"
           >
             Legal →
           </h3>
           <p
+            __source="[object Object]"
             class="jsx-1885047670"
           >
             Discover and enjoy the depths of legal issues.
           </p>
         </a>
         <a
+          __source="[object Object]"
           class="jsx-1885047670 card"
           href="https://vercel.com/import?filter=next.js"
         >
           <h3
+            __source="[object Object]"
             class="jsx-1885047670"
           >
             Deploy →
           </h3>
           <p
+            __source="[object Object]"
             class="jsx-1885047670"
           >
             Instantly deploy your Next.js site to a public URL with Vercel.
